@@ -184,7 +184,7 @@ PODS:
   - React-jsinspector (0.61.5)
   - react-native-splash-screen (3.0.6):
     - React
-  - react-native-webview (7.6.0):
+  - react-native-webview (7.5.2):
     - React
   - React-RCTActionSheet (0.61.5):
     - React-Core/RCTActionSheetHeaders (= 0.61.5)
@@ -221,9 +221,9 @@ PODS:
     - React-cxxreact (= 0.61.5)
     - React-jsi (= 0.61.5)
     - ReactCommon/jscallinvoker (= 0.61.5)
-  - RNCAsyncStorage (1.8.0):
+  - RNCAsyncStorage (1.6.3):
     - React
-  - RNGestureHandler (1.6.0):
+  - RNGestureHandler (1.5.2):
     - React
   - Yoga (1.14.0)
 
@@ -342,7 +342,7 @@ SPEC CHECKSUMS:
   React-jsiexecutor: d5525f9ed5f782fdbacb64b9b01a43a9323d2386
   React-jsinspector: fa0ecc501688c3c4c34f28834a76302233e29dc0
   react-native-splash-screen: d712b25c25f6671a15227f9b8579f87b2dbb0340
-  react-native-webview: 711cef318a554093b09a5b871894011435d87a8d
+  react-native-webview: d1b30cc9128256ec1a9c6d10fb572231bd371337
   React-RCTActionSheet: 600b4d10e3aea0913b5a92256d2719c0cdd26d76
   React-RCTAnimation: 791a87558389c80908ed06cc5dfc5e7920dfa360
   React-RCTBlob: d89293cc0236d9cb0933d85e430b0bbe81ad1d72
@@ -353,8 +353,8 @@ SPEC CHECKSUMS:
   React-RCTText: 9ccc88273e9a3aacff5094d2175a605efa854dbe
   React-RCTVibration: a49a1f42bf8f5acf1c3e297097517c6b3af377ad
   ReactCommon: 198c7c8d3591f975e5431bec1b0b3b581aa1c5dd
-  RNCAsyncStorage: 455b48eb552543bad4e3099e180e1700700771f3
-  RNGestureHandler: dde546180bf24af0b5f737c8ad04b6f3fa51609a
+  RNCAsyncStorage: 3c304d1adfaea02ec732ac218801cb13897aa8c0
+  RNGestureHandler: 946a7691e41df61e2c4b1884deab41a4cdc3afff
   Yoga: f2a7cd4280bfe2cca5a7aed98ba0eb3d1310f18b
 
 PODFILE CHECKSUM: d1f0259f25e1db2f43c099aebe0fe6fa41d4e379
